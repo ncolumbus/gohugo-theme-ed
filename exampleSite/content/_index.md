@@ -1,5 +1,5 @@
 ---
-title: "Ed."
+title: "Nikki Columbus"
 ---
 
 # hi.
