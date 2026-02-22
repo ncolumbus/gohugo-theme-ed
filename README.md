@@ -1,11 +1,3 @@
-<h1 align=center>Ed | <a href="https://gohugo-theme-ed.netlify.app/?utm_source=github.com&utm_campaign=docs&utm_medium=smm">Demo</a></h1>
-
-Ed is a [Hugo](http://gohugo.io) theme designed for textual editors based on
-[minimal computing](http://go-dh.github.io/mincomp/) principles, and focused
-on legibility, durability, ease and flexibility.
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sergeyklay/gohugo-theme-ed/main/exampleSite/content/documentation/screenshot-home.png" alt="Mockup image" title="Mockup"/>
 </p>
