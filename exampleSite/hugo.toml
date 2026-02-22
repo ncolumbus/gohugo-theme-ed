@@ -1,8 +1,5 @@
 # You may need to change this line for your real project.
-baseURL = 'Ed.'
-
-# A "copyright"-line to be added to RSS/Atom files and the footer.
-copyright = '© 2019-2024 Serghei Iakovlev'
+baseURL = 'Nikki Columbus'
 
 # Keep title short to prevent overflow.
 # There’s no official guidance on this, but 40 characters for
@@ -10,7 +7,7 @@ copyright = '© 2019-2024 Serghei Iakovlev'
 #
 # NB: Final title of shareable pages will be this plus the
 #     title of the page. E.g. "Posts | Ed."
-title = "Ed."
+title = "Nikki Columbus"
 
 enableRobotsTXT = true
 
@@ -20,7 +17,7 @@ refLinksErrorLevel = 'WARNING'
 
 [params]
   # Site description. Used in meta description
-  description = 'Ed is a Hugo theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+  description = 'Nikki Columbus is a writer, editor, curator, and performer'
 
   # SEO keywords. Used in 'meta name="keywords"' tag.
   # May be overridden by .Keywords or .Tags in front matter.
@@ -28,10 +25,6 @@ refLinksErrorLevel = 'WARNING'
 
   # Used in site header
   tagline = 'Writer, editor, curator, performer'
-
-  # Custom footer text on left sidebar. Use HTMl if needed.
-  # "&copy;" and "{year}" will be replaced by © and the current year.
-  footer = 'Built with <a href="https://github.com/sergeyklay/gohugo-theme-ed" target="_blank" rel="noopener noreferrer">Ed</a>. Distributed under an MIT license.'
 
   # Colour scheme. Options: red, orange, magenta, cyan, blue, brown
   colorScheme = ''
@@ -84,22 +77,6 @@ refLinksErrorLevel = 'WARNING'
     # Will be used in schema.org/Organization.
     # The site.Title  will be used if empty.
     publisher = 'Serghei Iakovlev'
-
-  showAuthor = true
-  [params.author]
-    name = 'Serghei Iakovlev'
-    email = 'contact@serghei.pl'
-    github = 'sergeyklay'
-    twitter = 'egreps'
-    location = 'Wrocław, Poland'
-
-  [params.social]
-    # Array of Facebook Page Admin IDs for Domain Insights
-    facebookAdminIds = []
-    # Facebook Page ID
-    facebookId = ''
-    # Twitter username for the website
-    twitter = 'egreps'
 
   # Configure search engine
   [params.search]
