@@ -27,7 +27,7 @@ refLinksErrorLevel = 'WARNING'
   keywords = ['hugo', 'ed', 'hugo theme', 'minimal', 'responsive', 'clean']
 
   # Used in site header
-  tagline = 'a Hugo theme for minimal editions'
+  tagline = 'Writer, editor, curator, performer'
 
   # Custom footer text on left sidebar. Use HTMl if needed.
   # "&copy;" and "{year}" will be replaced by © and the current year.
